@@ -50,4 +50,3 @@ hello_to_all("ali","cm","alan","yogesh","dalima")
 
 say_vip_hello(name="cm",age=11)
 
-
